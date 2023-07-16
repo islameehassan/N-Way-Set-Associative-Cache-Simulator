@@ -1,0 +1,5 @@
+# ninja log v5
+430	530	1689508135968660717	Project2	a19d2d4fb7f8255e
+1	569	1689508057381890095	CMakeFiles/Project2.dir/main.cpp.o	20298cadac133fe3
+1	430	1689508135872661947	CMakeFiles/Project2.dir/lib/CacheSim.cpp.o	1eeaae7116086a9
+0	34	1689512050884747392	build.ninja	8c8dd2fd6dde541b
